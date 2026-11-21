@@ -1,4 +1,14 @@
 {
   "supporters": [
+    {
+      "name": "Jo Example",
+      "type": "Tip",
+      "since": "2026-11-21",
+      "last": "2026-11-21",
+      "months": 0
+    }
+  ],
+  "_seen": [
+    "fe5aa98b-4eeb-4952-8174-6b21f6c7c5ba"
   ]
 }
