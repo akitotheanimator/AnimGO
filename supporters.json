@@ -1,6 +1,14 @@
 {
   "supporters": [
     {
+      "name": "Jo Example",
+      "type": "Subscription",
+      "since": "2026-11-21",
+      "last": "2026-11-21",
+      "months": 1
     }
+  ],
+  "_seen": [
+    "382bd37f-c2a9-45e3-a712-48204bca597d"
   ]
 }
